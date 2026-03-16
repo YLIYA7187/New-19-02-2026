@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de65efe3-568b-47dc-a434-8b92bdd1d55f" name="Changes" comment="Добавлены файлы">
-      <change afterPath="$PROJECT_DIR$/03_lesson/address.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/lesson_3_task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/lesson_3_task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/lesson_3_task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/mailing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/smartphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson02/lesson_2_task_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/course_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/course_group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/New-19-02-2026.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_lesson/string_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_lesson/string_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_lesson/test_string_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_lesson/test_string_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson01" />
+        <entry key="$PROJECT_DIR$" value="lesson3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_string_processor.py.executor": "Run",
+    "Python tests.Python tests in test_string_utils.py.executor": "Run",
     "Python.CourseGroup.executor": "Run",
     "Python.course_group.executor": "Run",
     "Python.ex1.executor": "Run",
@@ -79,7 +66,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lesson3",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "lesson4",
     "ignore.virus.scanning.warn.message": "true",
     "run.code.analysis.last.selected.profile": "aDefault"
   }

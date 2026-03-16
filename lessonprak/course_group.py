@@ -1,5 +1,6 @@
 from student import Student
 
+
 class CourseGroup:
     def __init__(self):
         self.student = None  # Основной студент

@@ -6,4 +6,6 @@ class Student:
         self.course = course
 
     def get_info(self):
-        return f"{self.name} {self.surname}, {self.age} лет, учится на курсе {self.course}"
+        return (
+            f"{self.name} {self.surname}, {self.age} лет, учится на курсе {self.course}"
+        )
