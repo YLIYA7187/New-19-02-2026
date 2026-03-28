@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de65efe3-568b-47dc-a434-8b92bdd1d55f" name="Changes" comment="Добавлены файлы">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/PRAK 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/PRAK 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/PRAK 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/PRAK 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonprak/test bra.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessonprak/test bra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,11 @@
     "Python.ex1.executor": "Run",
     "Python.ex2.executor": "Run",
     "Python.ex3.executor": "Run",
+    "Python.lesson05_task1.1.executor": "Run",
+    "Python.lesson05_task1.executor": "Run",
+    "Python.lesson05_task2.executor": "Run",
+    "Python.lesson05_task3.executor": "Run",
+    "Python.lesson05_task4.executor": "Run",
     "Python.lesson_2_6.executor": "Run",
     "Python.lesson_2_task_1.executor": "Run",
     "Python.lesson_2_task_2.executor": "Run",
@@ -70,7 +75,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging lesson4",
+    "git-widget-placeholder": "lesson5",
     "ignore.virus.scanning.warn.message": "true",
     "run.code.analysis.last.selected.profile": "aDefault"
   }
