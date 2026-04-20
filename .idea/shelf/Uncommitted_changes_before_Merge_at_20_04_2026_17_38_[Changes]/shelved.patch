@@ -1,0 +1,149 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"de65efe3-568b-47dc-a434-8b92bdd1d55f\" name=\"Changes\" comment=\"Добавлены файлы\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson3\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3AIgjGImBHTtZokQccrkLA0rfvk\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python tests.Python tests in test_string_processor.py.executor\": \"Run\",\r\n    \"Python tests.Python tests in test_string_utils.py.executor\": \"Run\",\r\n    \"Python.CourseGroup.executor\": \"Run\",\r\n    \"Python.PRAK 1.executor\": \"Run\",\r\n    \"Python.PRAK 2.executor\": \"Run\",\r\n    \"Python.course_group.executor\": \"Run\",\r\n    \"Python.ex1.executor\": \"Run\",\r\n    \"Python.ex2.executor\": \"Run\",\r\n    \"Python.ex3.executor\": \"Run\",\r\n    \"Python.lesson05_task1.1.executor\": \"Run\",\r\n    \"Python.lesson05_task1.executor\": \"Run\",\r\n    \"Python.lesson05_task2.executor\": \"Run\",\r\n    \"Python.lesson05_task3.executor\": \"Run\",\r\n    \"Python.lesson05_task4.executor\": \"Run\",\r\n    \"Python.lesson_2_6.executor\": \"Run\",\r\n    \"Python.lesson_2_task_1.executor\": \"Run\",\r\n    \"Python.lesson_2_task_2.executor\": \"Run\",\r\n    \"Python.lesson_2_task_3.executor\": \"Run\",\r\n    \"Python.lesson_2_task_4.executor\": \"Run\",\r\n    \"Python.lesson_2_task_5.executor\": \"Run\",\r\n    \"Python.lesson_2_task_6.executor\": \"Run\",\r\n    \"Python.lesson_2_task_7.executor\": \"Run\",\r\n    \"Python.lesson_3_task_1.executor\": \"Run\",\r\n    \"Python.lesson_3_task_2.executor\": \"Run\",\r\n    \"Python.lesson_3_task_3.executor\": \"Run\",\r\n    \"Python.product.executor\": \"Run\",\r\n    \"Python.smartphone.executor\": \"Run\",\r\n    \"Python.test bra.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"run.code.analysis.last.selected.profile\": \"aDefault\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"de65efe3-568b-47dc-a434-8b92bdd1d55f\" name=\"Changes\" comment=\"\" />\r\n      <created>1772285632164</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1772285632164</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Добавлены файлы\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772390201116</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772390201116</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"a02e6d51-302b-4f92-8e43-b57ffba86211\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"main\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"a02e6d51-302b-4f92-8e43-b57ffba86211\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"structure\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"dir:C:/Users/Юлия/OneDrive/Desktop/New-19-02-2026/lesson01\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Добавлены файлы\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Добавлены файлы\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 597f37211bf178ea9bf646f30678f2d415417c9e)
++++ b/.idea/workspace.xml	(date 1776695873135)
+@@ -20,7 +20,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="lesson3" />
++        <entry key="$PROJECT_DIR$" value="lesson6" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -33,46 +33,46 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python tests.Python tests in test_string_processor.py.executor": "Run",
+-    "Python tests.Python tests in test_string_utils.py.executor": "Run",
+-    "Python.CourseGroup.executor": "Run",
+-    "Python.PRAK 1.executor": "Run",
+-    "Python.PRAK 2.executor": "Run",
+-    "Python.course_group.executor": "Run",
+-    "Python.ex1.executor": "Run",
+-    "Python.ex2.executor": "Run",
+-    "Python.ex3.executor": "Run",
+-    "Python.lesson05_task1.1.executor": "Run",
+-    "Python.lesson05_task1.executor": "Run",
+-    "Python.lesson05_task2.executor": "Run",
+-    "Python.lesson05_task3.executor": "Run",
+-    "Python.lesson05_task4.executor": "Run",
+-    "Python.lesson_2_6.executor": "Run",
+-    "Python.lesson_2_task_1.executor": "Run",
+-    "Python.lesson_2_task_2.executor": "Run",
+-    "Python.lesson_2_task_3.executor": "Run",
+-    "Python.lesson_2_task_4.executor": "Run",
+-    "Python.lesson_2_task_5.executor": "Run",
+-    "Python.lesson_2_task_6.executor": "Run",
+-    "Python.lesson_2_task_7.executor": "Run",
+-    "Python.lesson_3_task_1.executor": "Run",
+-    "Python.lesson_3_task_2.executor": "Run",
+-    "Python.lesson_3_task_3.executor": "Run",
+-    "Python.product.executor": "Run",
+-    "Python.smartphone.executor": "Run",
+-    "Python.test bra.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "run.code.analysis.last.selected.profile": "aDefault"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;Python tests.Python tests in test_string_processor.py.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests in test_string_utils.py.executor&quot;: &quot;Run&quot;,
++    &quot;Python.CourseGroup.executor&quot;: &quot;Run&quot;,
++    &quot;Python.PRAK 1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.PRAK 2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.course_group.executor&quot;: &quot;Run&quot;,
++    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson05_task1.1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson05_task1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson05_task2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson05_task3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson05_task4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_6.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_5.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_6.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_2_task_7.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_3_task_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_3_task_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lesson_3_task_3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.product.executor&quot;: &quot;Run&quot;,
++    &quot;Python.smartphone.executor&quot;: &quot;Run&quot;,
++    &quot;Python.test bra.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -100,11 +100,6 @@
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+-    <option name="OPEN_GENERIC_TABS">
+-      <map>
+-        <entry key="a02e6d51-302b-4f92-8e43-b57ffba86211" value="TOOL_WINDOW" />
+-      </map>
+-    </option>
+     <option name="RECENT_FILTERS">
+       <map>
+         <entry key="Branch">
+@@ -136,31 +131,6 @@
+                   </entry>
+                 </map>
+               </option>
+-            </State>
+-          </value>
+-        </entry>
+-        <entry key="a02e6d51-302b-4f92-8e43-b57ffba86211">
+-          <value>
+-            <State>
+-              <option name="FILTERS">
+-                <map>
+-                  <entry key="branch">
+-                    <value>
+-                      <list>
+-                        <option value="HEAD" />
+-                      </list>
+-                    </value>
+-                  </entry>
+-                  <entry key="structure">
+-                    <value>
+-                      <list>
+-                        <option value="dir:C:/Users/Юлия/OneDrive/Desktop/New-19-02-2026/lesson01" />
+-                      </list>
+-                    </value>
+-                  </entry>
+-                </map>
+-              </option>
+-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+             </State>
+           </value>
+         </entry>
