@@ -1,5 +1,23 @@
+<<<<<<< HEAD
 .idea/shelf/ 
 .idea/workspace.xml 
 __pycache__/ 
 *.pyc 
 ".idea/" 
+=======
+"# Ignore IDE files" 
+".idea/" 
+"" 
+"# Ignore Python cache" 
+"__pycache__/" 
+"*.py[cod]" 
+"*$py.class" 
+"" 
+"# Ignore virtual environments" 
+".venv/" 
+"venv/" 
+"" 
+"# Ignore pytest cache" 
+".pytest_cache/" 
+>>>>>>> lesson6K
+__pycache__/
