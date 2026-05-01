@@ -4,7 +4,7 @@ import requests
 
 class TestAPI:
     auth_token = (
-        "Bearer FsUSOrUEjC0p8vaY66q85KtfKW6-" "X0OrgoUhjWJ1jN5KjFScsjY1YiiDnT-L0TeB"
+        ""
     )  # вставить свой токен
 
     id_project = None
