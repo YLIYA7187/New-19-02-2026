@@ -1,27 +1,35 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import allure
 
 class CheckoutStepOnePage:
     def __init__(self, driver):
         self.driver = driver
-        self.wait = WebDriverWait(driver, 10)
+        self.wait = WebDriverWait(driver, 20)
 
+        self.first_name_field_locator = (By.ID, "first-name")
+        self.last_name_field_locator = (By.ID, "last-name")
+        self.postal_code_field_locator = (By.ID, "postal-code")
         self.continue_button_locator = (By.ID, "continue")
-        self.input_field_locator_template = (By.ID, "{field_name}")
 
-    def fill_form(self, user_info):
-        for field_name, value in user_info.items():
-            locator = (
-                self.input_field_locator_template[0],
-                self.input_field_locator_template[1].format(field_name=field_name),
-            )
-            field = self.wait.until(EC.presence_of_element_located(locator))
-            field.send_keys(value)
+    @allure.step("Заполнение формы доставки")
+    def fill_form(self, user_info: dict) -> None:
+        first_name_field = self.wait.until(
+            EC.element_to_be_clickable(self.first_name_field_locator)
+        )
+        first_name_field.send_keys(user_info["first-name"])
 
-    def continue_to_next_step(self):
+        last_name_field = self.driver.find_element(*self.last_name_field_locator)
+        last_name_field.send_keys(user_info["last-name"])
+
+        postal_code_field = self.driver.find_element(*self.postal_code_field_locator)
+        postal_code_field.send_keys(user_info["postal-code"])
+
+    @allure.step("Продолжение к следующему шагу")
+    def continue_to_next_step(self) -> None:
         continue_button = self.wait.until(
             EC.element_to_be_clickable(self.continue_button_locator)
         )
         continue_button.click()
+

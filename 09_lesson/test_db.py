@@ -1,5 +1,3 @@
-# test_db.py
-
 import pytest
 from db_table import StudentTable, SubjectTable
 
